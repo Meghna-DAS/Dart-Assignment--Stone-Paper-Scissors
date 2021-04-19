@@ -30,3 +30,10 @@ Course: BCA<br>
 Semester: IV<br>
 Division : A<br>
 Subject: Current Trends and Information Practices<br>
+
+##Gallery
+![image](https://user-images.githubusercontent.com/55181652/115210413-2c573100-a11c-11eb-8a9e-a5fb8b1b3810.png)
+
+##Exception Handling
+![image](https://user-images.githubusercontent.com/55181652/115210059-d71b1f80-a11b-11eb-9454-b38ffdfa66b9.png)
+
