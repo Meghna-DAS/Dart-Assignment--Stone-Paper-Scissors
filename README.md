@@ -4,6 +4,7 @@
 This is a stone paper scissors game.<br>
 User can play it with a computer.<br>
 Final score is given after all the rounds specified by the user are completed <br>
+Winner is declared<br>
 
 ## Technologies 👩‍💻
 Dart
