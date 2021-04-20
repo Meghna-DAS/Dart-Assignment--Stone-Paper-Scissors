@@ -6,6 +6,12 @@ User can play it with a computer.<br>
 Final score is given after all the rounds specified by the user are completed <br>
 Winner is declared<br>
 
+## Rules of the Game 🤷‍♀️
+1. Stone VS Scissors- Stone WINS
+2. Scissors VS Paper- Scissors WINS
+3. Paper VS Stone- Paper WINS
+4. If both select same then its a tie
+
 ## Technologies 👩‍💻
 Dart
 
@@ -17,7 +23,7 @@ Dart
 5. Start Game
 6. If user and computer choices are same then tie
 7. If user's choice and computer's choice do not match<br>
-    i) User has higher authority choice- User wins
+    i) User has higher authority choice- User wins<br>
     ii) Computer has higher authority choice- Computer wins
 8. Check if all rounds completed
 9. Display final score and winner
